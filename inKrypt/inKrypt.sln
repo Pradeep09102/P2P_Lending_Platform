@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "inKrypt", "inKrypt\", "{537EFAE1-0BFF-446D-8E7F-FB0DFE9DCC03}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59093"
+		Debug.AspNetCompiler.PhysicalPath = "inKrypt\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59093\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59093"
+		Release.AspNetCompiler.PhysicalPath = "inKrypt\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59093\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59093"
+		SlnRelativePath = "inKrypt\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537EFAE1-0BFF-446D-8E7F-FB0DFE9DCC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537EFAE1-0BFF-446D-8E7F-FB0DFE9DCC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5182D3E2-BF69-48EC-9A70-1DC83B87024E}
+	EndGlobalSection
+EndGlobal
