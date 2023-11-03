@@ -11,3 +11,4 @@ of lending money to individuals or businesses through online services that match
 borrowers. Peer-to-peer lending companies often offer their services online, and attempt to
 operate with lower overhead and provide their services more cheaply than traditional financial
 institutions.
+#P2P Lending Platform Execution Steps:
