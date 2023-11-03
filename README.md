@@ -10,4 +10,4 @@ intermediaries etc. Peer-to-peer lending, also abbreviated as P2P lending, is th
 of lending money to individuals or businesses through online services that match lenders with
 borrowers. Peer-to-peer lending companies often offer their services online, and attempt to
 operate with lower overhead and provide their services more cheaply than traditional financial
-institutions.
+institutions. 
