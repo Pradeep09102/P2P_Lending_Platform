@@ -6,7 +6,6 @@ contract BLending{
         uint256 ethdeposited;
         bool withdraw;
     }
-
     mapping(address => Borrowers) borrower;
     address[] public borrowerAccts;
 
