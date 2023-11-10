@@ -8,6 +8,7 @@
          <p>Don't sell Your Crypto, Borrow against it!</p>
         <center>
             <p>
+
                 <asp:Button ID="btncalculator" OnClick="btncalculator_Click" runat="server" CssClass="btn btn-primary btn-lg" Text="View Loan Calculator"  style="background-color:dimgrey"/>
             </p>
         </center>
